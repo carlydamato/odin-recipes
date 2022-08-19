@@ -10,3 +10,9 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+ul {
+    color: teal;
+    font-family: "Copperplate", fantasy;
+    font-size: 30px;
+}
